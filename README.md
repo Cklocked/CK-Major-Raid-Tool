@@ -4,7 +4,7 @@
 <p align="center">CK Major Raidng Tool
 </p>
 <p align="center">
-  A 100% free and opensource discord raider written with python
+  A 100% free discord raider written with python
 </p>
 
 <p align="center">
