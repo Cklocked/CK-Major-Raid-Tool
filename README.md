@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/hnZ9vgk.png" width="250" height="250">
 </p>
-<p align="center">
-  Mooner V2
+<p align="center">CK Major Raidng Tool
 </p>
 <p align="center">
   A 100% free and opensource discord raider written with python
