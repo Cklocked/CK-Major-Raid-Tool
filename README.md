@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/hnZ9vgk.png" width="250" height="250">
+  <img src="file:///Users/ghee/Desktop/Screen%20Shot%202024-07-13%20at%201.47.54%20PM.png" width="250" height="250">
 </p>
 <p align="center">CK Major Raidng Tool
 </p>
