@@ -28,7 +28,7 @@
 
 ## 🖥 Preview
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1128175560925913168/1261754135913435238/standard.gif?ex=66941b9c&is=6692ca1c&hm=7f3f72c1709b8a653e8416f378e51617ff6d0b4263265f7c5155b678d26105b4&=">
+  <img src="https://media.discordapp.net/attachments/1128175560925913168/1261742385998860368/Screen_Shot_2024-07-13_at_1.47.54_PM.png?ex=669410aa&is=6692bf2a&hm=aac10beb6ee9185bc8b3cf1b8cfad9a829709c3b503f460725dff74b7ce32856&=&format=webp&quality=lossless">
 </p>
 
 ## ✍️ Usage
